@@ -20,14 +20,14 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 2. Create a Beautiful Soup object and use it to scrape the data in the HTML table. 
 3. Assemble the scraped data into a Pandas DataFrame. The columns should have the same headings as the table on the website. 
 
-Here’s an explanation of the column headings:
-- id: the identification number of a single transmission from the Curiosity rover
-- terrestrial_date: the date on Earth
-- sol: the number of elapsed sols (Martian days) since Curiosity landed on Mars
-- ls: the solar longitude
-- month: the Martian month
-- min_temp: the minimum temperature, in Celsius, of a single Martian day (sol)
-- pressure: The atmospheric pressure at Curiosity's location
+Explanation of the column headings:
+  - id: the identification number of a single transmission from the Curiosity rover
+  - terrestrial_date: the date on Earth
+  - sol: the number of elapsed sols (Martian days) since Curiosity landed on Mars
+  - ls: the solar longitude
+  - month: the Martian month
+  - min_temp: the minimum temperature, in Celsius, of a single Martian day (sol)
+  - pressure: The atmospheric pressure at Curiosity's location
 
 4. Examine the data types that are currently associated with each column. Cast (or convert) the data to the appropriate datetime, int, or float data types.
 
