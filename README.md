@@ -13,7 +13,7 @@ Open the Jupyter Notebook in the starter code folder named part_1_mars_news.ipyn
 
 -----
 
-##Part 2: Scrape and Analyse Mars Weather Data
+## Part 2: Scrape and Analyse Mars Weather Data
 Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.ipynb. 
 
 1. Use automated browsing to visit the Mars Temperature Data SiteLinks to an external site. Inspect the page to identify which elements to scrape. NB. URL is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
